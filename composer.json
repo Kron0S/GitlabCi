@@ -28,6 +28,6 @@
 		"kriswallsmith/buzz": ">=0.7"
 	},
 	"autoload": {
-		"psr-0": { "GitlabCi\\": "lib/" }
+		"psr-0": { "GitlabCi\\": "Kron0S/GitlabCi/lib/" }
 	}
 }
